@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.main.add.bottomDialog.OptionBottomSheetDialogFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="30dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/select_option"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_count"
+                android:textColor="@color/colorGray"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+
+            <EditText
+                android:layout_width="250dp"
+                android:layout_height="30dp"
+                android:paddingLeft="15dp"
+                android:background="@drawable/btn_border_delivery"
+                android:hint="1"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_condition"
+                android:textColor="@color/colorGray"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="120dp"
+                android:layout_height="37dp"
+                android:textSize="12dp"
+                android:textColor="@color/my_event"
+                android:text="@string/option_used"
+                android:textStyle="bold"
+                android:background="@drawable/btn_brand_follow_recycler"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="120dp"
+                android:layout_height="37dp"
+                android:textSize="12dp"
+                android:textColor="@color/colorGray"
+                android:text="@string/option_new"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold"
+                android:background="@drawable/btn_border_delivery"
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/option_exchange"
+                android:textColor="@color/colorGray"/>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="120dp"
+                android:layout_height="37dp"
+                android:textSize="12dp"
+                android:textColor="@color/my_event"
+                android:text="@string/option_no"
+                android:textStyle="bold"
+                android:background="@drawable/btn_brand_follow_recycler"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="120dp"
+                android:layout_height="37dp"
+                android:textSize="12dp"
+                android:textColor="@color/colorGray"
+                android:text="@string/option_yes"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold"
+                android:background="@drawable/btn_border_delivery"
+                />
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/option_finish"
+            android:layout_marginBottom="40dp"
+            android:textSize="@dimen/add_btn_check_text_size"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_add_product"/>
+    </LinearLayout>
+
+</FrameLayout>

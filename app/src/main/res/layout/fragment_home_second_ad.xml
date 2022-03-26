@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.main.home.ad.secondAd.HomeSecondAdFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/home_ad_second">
+        <ImageView
+            android:id="@+id/iv_ad_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iv_ad_2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/main_fragment_margin_top"/>
+        <TextView
+            android:id="@+id/tv_ad_2_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/home_ad_second_small"
+            android:layout_below="@+id/iv_ad_2"
+            android:textColor="@color/white"
+            android:layout_marginTop="15dp"/>
+        <TextView
+            android:id="@+id/tv_ad_2_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/home_ad_second_large"
+            android:layout_below="@id/tv_ad_2_small"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:fontFamily="@font/esamanru_light"
+            android:layout_marginTop="15dp"/>
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,280 @@
+<resources>
+    <string name="app_name">BunJang_Olivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="next">다음</string>
+
+    <!-- Login -->
+    <string name="kakao_login">카카오톡으로 시작하기</string>
+    <string name="other_login">다른 방법으로 로그인</string>
+    <string name="login_first_large_txt">취향을 잇는 거래,\n번개장터</string>
+    <string name="login_first_small_txt">요즘 유행하는 메이저 취향부터\n나만 알고싶은 마이너 취향까지</string>
+    <string name="login_second_large_txt">안전하게\n취향을 잇습니다.</string>
+    <string name="login_second_small_txt">번개톡, 번개페이로\n거래의 시작부터 끝까지 안전하게</string>
+    <string name="login_third_large_txt">편리하게\n취향을 잇습니다.</string>
+    <string name="login_third_small_txt">포장택배 서비스로\n픽업/포장/배송을 한방에</string>
+    <string name="login_fourth_large_txt">번개장터에서\n취향을 거래해보세요.</string>
+    <string name="login_fourth_small_txt">지금 바로 번개장터에서\n당신의 취향에 맞는 아이템들을 찾아보세요!</string>
+    <string name="facebook_login">페이스북으로 시작하기</string>
+    <string name="naver_login">네이버로 시작하기</string>
+    <string name="personal_login">본인인증으로 시작하기</string>
+    <string name="login_setting_store_name">상점명을\n입력해주세요</string>
+    <string name="login_setting_store_name_txt">상점명</string>
+    <string name="login_setting_store_caution">한글, 영어, 숫자만 사용할 수 있어요. (최대 10자)\n상점명은 고객님의 닉네임으로 사용될 예정이에요.</string>
+
+    <!--BottomNavigation -->
+    <string name="home">홈</string>
+    <string name="search">검색</string>
+    <string name="register">등록</string>
+    <string name="talk">번개톡</string>
+    <string name="my">MY</string>
+
+    <!--Home-->
+    <string name="home_want">찜</string>
+    <string name="home_recent">최근본상품</string>
+    <string name="home_my_feed">내피드</string>
+    <string name="home_my_phone">내폰시세</string>
+    <string name="home_my_town">우리동네</string>
+    <string name="home_invite">친구초대</string>
+    <string name="home_all_menu">전체메뉴</string>
+    <string name="home_nike">나이키</string>
+    <string name="home_sneakers">스니커즈</string>
+    <string name="home_woman_bang">여성가방</string>
+    <string name="home_star_goods">스타굿즈</string>
+    <string name="home_camping">캠핑</string>
+    <string name="home_golf">골프</string>
+    <string name="home_doll">피규어/인형</string>
+    <string name="home_users_taste_txt">전국의 사람과 물건이 헤어지고\n다시 만나는 번개장터입니다</string>
+    <string name="home_recommend">추천상품</string>
+    <string name="home_brand">브랜드</string>
+    <string name="safety">안전</string>
+
+    <!--Brand-->
+    <string name="brand_add_btn">추가</string>
+    <string name="brand_edit_btn">편집</string>
+    <string name="brand_follow_txt">브랜드를 팔로우하고\n매일 새소식을 받아보세요</string>
+    <string name="brand_follow_detail_txt">팔로우한 브랜드 소식을 피드에서 확인해보세요</string>
+    <string name="brand_follow_btn">브랜드 팔로우하기</string>
+
+    <!-- Advertisement -->
+    <string name="home_ad_first_small">무이자 혜택부터 택배할인까지</string>
+    <string name="home_ad_first_large">1월의 혜택모음</string>
+    <string name="home_ad_second_small">번개장터|카카오T</string>
+    <string name="home_ad_second_large">이제 번개장터에서\n카카오 T 퀵을 이용하세요</string>
+    <string name="home_ad_third_small">간편결제 이벤트</string>
+    <string name="home_ad_third_large">새해엔 혜택을\n세 배로 드려요</string>
+    <string name="home_ad_fourth_small">SK7mobile | KT유심 | LG 헬로비전</string>
+    <string name="home_ad_fourth_large">번개장터 제휴 요금제\n데이터 무제한 1만 원 부터</string>
+
+    <!-- Add -->
+    <string name="add_location"><u>거래할 장소</u></string>
+    <string name="add_product_name">상품명</string>
+    <string name="add_category">카테고리</string>
+    <string name="add_tag"># 태그</string>
+    <string name="add_price">$ 가격</string>
+    <string name="add_include_delivery_price">배송비포함</string>
+    <string name="add_option">옵션선택</string>
+    <string name="add_option_txt">1개 | 중고상품 | 교환불가</string>
+    <string name="add_description">상품의 구입일자, 브랜드, 사용감 등을 적어주세요.\n자세히 적을수록 더 빨리 팔려요 (10자 이상)</string>
+    <string name="add_safety_payment">안전결제 환영</string>
+    <string name="add_safety_btn">등록</string>
+    <string name="add_safety_payment_txt">빠르게 팔고 싶다면 안전결제 환영을 이용하세요!</string>
+
+
+    <!--Category-->
+    <string name="category">카테고리</string>
+    <string name="recent_category">최근 카테고리</string>
+    <string name="all_category">전체 카테고리</string>
+    <string name="woman_cloth_category">여성의류</string>
+    <string name="man_cloth_category">남성의류</string>
+    <string name="shoes_category">신발</string>
+    <string name="bag_category">가방</string>
+    <string name="jewerly_category">시계/주얼리</string>
+    <string name="fashion_accessory_category">패션 액세서리</string>
+    <string name="digital_category">디지털/가전전</string>
+    <string name="sports_category">스포츠/레저</string>
+    <string name="car_category">차량/오토바이</string>
+    <string name="star_goods_category">스타굿즈</string>
+    <string name="kidult_category">키덜트</string>
+    <string name="art_category">예술/희귀/수집품</string>
+    <string name="album_category">음반/악기</string>
+    <string name="book_ticket_category">도서/티켓/문구</string>
+    <string name="beauty_category">뷰티/미용</string>
+    <string name="interior_category">가구/인테리어</string>
+    <string name="life_category">생활/가공식품</string>
+    <string name="child_category">유아동/출산</string>
+    <string name="animal_category">반려동물용품</string>
+    <string name="others_cateogyr">기타</string>
+    <string name="area_service_category">지역 서비스</string>
+    <string name="room_category">원룸/함께살아요</string>
+    <string name="share_category">번개나눔</string>
+    <string name="recruit_category">구인구직</string>
+    <string name="talent_category">재능</string>
+    <string name="community_category">커뮤니티</string>
+
+    <!--Tag-->
+    <string name="tag">태그</string>
+    <string name="tag_1">-상품의 브랜드, 모델명 사이즈 등을 입력해보세요.</string>
+    <string name="tag_2">-검색과 검색 광고 등에 사용됩니다.</string>
+    <string name="tag_3">-상품과 관련이 없는 태그를 입력할 경우 상품의 노출이\n중단되거나 삭제될 수 있습니다.</string>
+    <string name="write_tag">태그를 입력해주세요(최대 5개)</string>
+
+    <!-- WomanCloth-->
+    <string name="woman_cloth">여성의류</string>
+    <string name="jacket">패딩/점퍼</string>
+    <string name="coat">코트</string>
+    <string name="one_to_one">맨투맨</string>
+    <string name="hooded">후드티/후드집업</string>
+    <string name="tshirt">티셔츠</string>
+    <string name="blouse">블라우스</string>
+    <string name="title_activity_recommend_detail">RecommendDetailActivity</string>
+
+    <!-- Product Detail -->
+    <string name="simple_pay_txt">간편결제하고 최대 10.5% 혜택 받기!</string>
+    <string name="find_with_tag">태그로 검색하기</string>
+    <string name="inquire_product">상품 문의하기</string>
+    <string name="report_product">신고하기</string>
+    <string name="ad_inflearn_1">지금 인프런 강의 100% 할인!</string>
+    <string name="ad_inflearn_2">선물 왔어흥! 솟아나라 성장기운</string>
+    <string name="store_alarm">팔로잉 상점의 상품이 등록되면\n알림으로 받아보시겠어요?</string>
+
+    <!-- Talk -->
+    <string name="talk_poster_1">카러플 이모티콘 받아가세요!</string>
+    <string name="talk_poster_2">카카오톡 연동하면 누구나 100% 지급</string>
+    <string name="bunjang">번개장터</string>
+    <string name="welcome_bunjang">번개장터에 오신 걸 환영해요!</string>
+
+    <!-- My -->
+    <string name="event">이벤트</string>
+    <string name="event_txt">문 앞에 놓으면 끝! 포장택배 첫 이용 무료</string>
+    <string name="sell_expect">상품에 대한 반응을 모으고 있어요!</string>
+
+    <!-- Setting-->
+    <string name="setting">설정</string>
+    <string name="user_setting">사용자 설정</string>
+    <string name="nickname_setting">계정 설정</string>
+    <string name="alarm_setting">알림 설정</string>
+    <string name="our_village_setting">우리동네 지역 설정</string>
+    <string name="delivery_setting">배송지 설정</string>
+    <string name="account_setting">계좌 설정</string>
+    <string name="simple_pay_setting">간편결제 카드설정</string>
+    <string name="block_store_setting">차단 상점 관리</string>
+    <string name="service_info">서비스 정보</string>
+    <string name="agreement">이용약관</string>
+    <string name="personal_policy">개인정보 처리방침</string>
+    <string name="location_agreement">위치기반서비스 이용약관</string>
+    <string name="open_source_license">오픈소스 라이선스</string>
+    <string name="version">버전정보</string>
+    <string name="logout">로그아웃</string>
+
+    <!--NicknameSetting-->
+    <string name="gender">성별</string>
+    <string name="birth">생년월일</string>
+    <string name="contact">연락처</string>
+    <string name="sns">SNS연동</string>
+    <string name="leave_member">회원탈퇴</string>
+
+    <!--AccountSetting-->
+    <string name="manage_account">계좌 관리</string>
+    <string name="add_account">계좌 등록하기</string>
+
+    <!--MyWish-->
+    <string name="my_wish_product">관심상품</string>
+    <string name="my_wish">찜</string>
+    <string name="my_recent">최근 본 상품</string>
+
+    <!--MyBottomSheetDialog -->
+    <string name="my_store">내 상점</string>
+    <string name="my_modify">수정하기</string>
+    <string name="my_review">미리보기</string>
+    <string name="my_share">공유하기</string>
+
+    <!--Modify-->
+    <string name="modify_store">상점 설정</string>
+    <string name="store_name">상점명</string>
+    <string name="store_address">상점 주소</string>
+    <string name="possible_contact_time">연락가능시간</string>
+    <string name="store_info">상점 소개</string>
+    <string name="store_policy">교환/반품/환불 정책을 입력하세요</string>
+    <string name="buy_caution">구매전 유의사항</string>
+
+    <!-- Add Account-->
+    <string name="add_new_account">계좌 등록</string>
+    <string name="account_holder">예금주  </string>
+    <string name="account_holder_write">예금주명 입력하기</string>
+    <string name="select_bank">은행 선택</string>
+    <string name="account_number">계좌번호</string>
+    <string name="write_number">-없이 숫자만 입력</string>
+    <string name="finish_add_acount">등록 완료</string>
+
+    <string name="calculate_account">정산계좌 설정</string>
+    <string name="refund_account">환불계좌 설정</string>
+
+    <string name="account_more">더보기</string>
+    <string name="account_modify">수정하기</string>
+    <string name="account_delete">삭제하기</string>
+
+    <string name="find_bank">은행명 검색</string>
+    <string name="kookmin">국민은행</string>
+    <string name="maximum_two_account">계좌는 최대 2개까지 관리할 수 있습니다.</string>
+    <string name="none_account">아직 등록된 계좌가 없습니다</string>
+    
+    <!--Option-->
+    <string name="select_option">옵션 선택</string>
+    <string name="option_count">수량</string>
+    <string name="option_condition">상품상태</string>
+    <string name="option_used">중고상품</string>
+    <string name="option_new">새상품</string>
+    <string name="option_exchange">교환</string>
+    <string name="option_no">불가</string>
+    <string name="option_yes">가능</string>
+    <string name="option_finish">선택 완료</string>
+
+    <!--Pay-->
+    <string name="product_pay_safety">안전결제</string>
+    <string name="product_delivery_trade">택배거래</string>
+    <string name="product_delivery_trade_txt">안전하게 상품을 받을 때까지,\n번개장터가 결제금액을 보관해요</string>
+    <string name="product_direct_trade">직거래</string>
+    <string name="product_direct_trade_txt">직거래도 현금없이 간편하게 결제할 수 있어요</string>
+    <string name="pay_card_possible">카드가능</string>
+
+    <!-- Delivery_Buy -->
+    <string name="delivery_pay_txt">택배거래, 안전결제로\n구매합니다</string>
+    <string name="delivery_direct_pay_txt">직거래, 안전결제로\n구매합니다</string>
+    <string name="delivery_location">배송지</string>
+    <string name="write_delivery_location">배송지를 등록해주세요</string>
+    <string name="delivery_option">배송 요청사항(선택)</string>
+    <string name="delivery_add"><u>등록</u></string>
+    <string name="delivery_point">번개포인트</string>
+    <string name="use_all_point">전액사용</string>
+    <string name="usable_point">사용 가능한 번개 포인트 0</string>
+    <string name="see_in_detail">자세히 보기</string>
+    <string name="amount_pay">결제금액</string>
+    <string name="benefit_apply">번개페이 혜택이 적용되었습니다!</string>
+    <string name="product_price">상품금액</string>
+    <string name="charge">안심 수수료</string>
+    <string name="first_pay_no_charge">번개페이 첫 구매 수수료 무료 (최대 3,500원)</string>
+    <string name="use_point">번개 포인트 사용</string>
+    <string name="delivery_fee">배송비</string>
+    <string name="no_delivery_fee">배송비 별도</string>
+    <string name="all_pay">총 결제금액</string>
+    <string name="pay_method">결제수단</string>
+    <string name="bj_simple_pay">번개장터 간편결제</string>
+    <string name="point_save">최대 3.5% 번개포인트 적립\n3.5% 청구 할인</string>
+    <string name="add_card_and_save_point">카드등록하고 혜택받기</string>
+    <string name="personal_agreement">개인정보 제3자 제공동의와 결제대\n행 서비스 이용약관에 동의합니다.</string>
+
+    <!--Balance-->
+    <string name="balance_account">정산계좌</string>
+    <string name="add_balance_account">정산계좌를 등록하세요.</string>
+    <string name="no_balance_account">정산 내역이 없습니다.</string>
+    <string name="balance_caution">- 판매대금은 등록한 계좌번호로 정산일에 지급됩니다.\n   정산일 이후 미지급 상태인 경우 계좌번호를 다시 한 번\n   확인해주세요.</string>
+
+    <!--Trade-->
+    <string name="no_sell">판매 내역이 없습니다.</string>
+    <string name="no_buy">구매내역이 없습니다.</string>
+
+
+    <string name="bj">번개장터</string>
+</resources>

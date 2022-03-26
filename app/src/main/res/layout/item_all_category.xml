@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/category_title_height"
+    android:orientation="horizontal"
+    android:layout_marginTop="@dimen/category_linear_margin_top"
+    android:id="@+id/btn_category"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/iv_all_category_icon"
+        android:layout_width="@dimen/category_icon"
+        android:layout_height="@dimen/category_icon"
+        android:src="@drawable/ic_sports"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/category_left"/>
+    <TextView
+        android:id="@+id/tv_all_category_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="test"
+        android:textSize="@dimen/category_list"
+        android:textColor="@color/category_list"
+        android:drawablePadding="@dimen/category_drawable_padding"
+        android:layout_marginLeft="@dimen/category_left"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

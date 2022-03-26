@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.login.settingName.LoginSettingStoreNameActivity">
+
+    <TextView
+        android:id="@+id/tv_setting_store_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/login_setting_name_margin"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/esamanru_medium"
+        android:text="@string/login_setting_store_name"
+        android:textColor="@color/black"
+        android:textSize="30dp" />
+    <TextView
+        android:id="@+id/tv_setting_store_name_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login_setting_store_name_txt"
+        android:layout_below="@+id/tv_setting_store_name"
+        android:layout_marginLeft="@dimen/login_setting_name_margin"
+        android:layout_marginTop="@dimen/login_setting_name_margin"/>
+
+    <EditText
+        android:id="@+id/et_store_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_setting_store_name_text"
+        android:layout_marginLeft="@dimen/login_setting_name_margin"
+        android:layout_marginRight="@dimen/login_setting_name_margin"
+        android:layout_marginTop="50dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_setting_store_caution"
+        android:layout_marginLeft="@dimen/login_setting_name_margin"
+        android:layout_marginRight="@dimen/login_setting_name_margin"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/et_store_name"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:background="@color/store_btn_unable"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:enabled="false"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

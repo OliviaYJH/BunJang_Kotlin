@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.main.home.ad.thirdAd.HomeThirdAdFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/home_ad_third"
+        >
+        <ImageView
+            android:id="@+id/iv_ad_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iv_ad_3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/main_fragment_margin_top"/>
+        <TextView
+            android:id="@+id/tv_ad_3_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_ad_third_small"
+            android:textColor="@color/black"
+            android:layout_below="@id/iv_ad_3"
+            android:layout_centerHorizontal="true"
+            android:textSize="16dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/tv_ad_3_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_ad_third_large"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/tv_ad_3_small"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:fontFamily="@font/esamanru_medium"
+            android:layout_marginTop="13dp"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#fcfcfc</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#889dfe</color>
+
+    <!-- Login -->
+    <color name="kakao_logo">#FFEB34</color>
+    <color name="colorGray">#757171</color>
+    <color name="colorLightGray">#C6C5C5</color>
+    <color name="store_btn_unable">#D16868</color>
+    <color name="store_btn_able">#D32828</color>
+
+    <!-- HomeFragment -->
+    <color name="home_ad_first">#BF1E1E</color>
+    <color name="home_ad_first_small">#DDDDDD</color>
+    <color name="home_ad_second">#2A2E4A</color>
+    <color name="home_ad_third">#EAD419</color>
+    <color name="home_ad_fourth">#671AEF</color>
+
+    <color name="home_recommend_safety">#4CAF50</color>
+    <color name="home_recommend_wish">#E11616</color>
+
+    <color name="home_brand_follow">#F8E0E0</color>
+    <color name="home_brand_follow_txt">#D86060</color>
+
+    <!-- Add -->
+    <color name="add_camera_background">#F1EEEE</color>
+    <color name="add_btn">#CE1B1B</color>
+
+    <!-- Category -->
+    <color name="category_light_gray">#EAEAEA</color>
+    <color name="category_title">#494949</color>
+    <color name="category_list">#606060</color>
+
+    <!--My -->
+    <color name="my_event">#EC3D3D</color>
+    <color name="my_event_back">#ECEEFF</color>
+
+    <color name="background_gray">#EFEEEE</color>
+
+    <!--Account-->
+    <color name="add_account">#ECEEF6</color>
+
+    <!--Detail-->
+
+    <!--Delivery-->
+    <color name="delivery_benefit_use">#F1EAAE</color>
+    <color name="btn_delivery_benefit_use">#F5BE1A</color>
+    <color name="delivery_light_green">#70CBECCB</color>
+    <color name="delivery_green">#4CAF50</color>
+
+</resources>

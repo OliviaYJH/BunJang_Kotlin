@@ -1,0 +1,156 @@
+[
+  {
+    "category_id": 10,
+    "name": "패딩/점퍼"
+  },
+  {
+    "category_id": 11,
+    "name": "코트"
+  },
+  {
+    "category_id": 12,
+    "name": "맨투맨"
+  },
+  {
+    "category_id": 13,
+    "name": "후드티/후드집업"
+  },
+  {
+    "category_id": 14,
+    "name": "티셔츠"
+  },
+  {
+    "category_id": 15,
+    "name": "블라우스"
+  },
+  {
+    "category_id": 20,
+    "name": "패딩/점퍼"
+  },
+  {
+    "category_id": 21,
+    "name": "코트"
+  },
+  {
+    "category_id": 22,
+    "name": "맨투맨"
+  },
+  {
+    "category_id": 23,
+    "name": "후드티/후드집업"
+  },
+  {
+    "category_id": 24,
+    "name": "티셔츠"
+  },
+  {
+    "category_id": 25,
+    "name": "셔츠"
+  },
+  {
+    "category_id": 30,
+    "name": "스니커즈"
+  },
+  {
+    "category_id": 31,
+    "name": "남성화"
+  },
+  {
+    "category_id": 32,
+    "name": "여성화"
+  },
+  {
+    "category_id": 40,
+    "name": "여성가방"
+  },
+  {
+    "category_id": 41,
+    "name": "남성가방"
+  },
+  {
+    "category_id": 42,
+    "name": "여행용"
+  },
+  {
+    "category_id": 50,
+    "name": "시계"
+  },
+  {
+    "category_id": 51,
+    "name": "쥬얼리"
+  },
+  {
+    "category_id": 60,
+    "name": "지갑"
+  },
+  {
+    "category_id": 61,
+    "name": "벨트"
+  },
+  {
+    "category_id": 62,
+    "name": "모자"
+  },
+  {
+    "category_id": 63,
+    "name": "목도리/장갑"
+  },
+  {
+    "category_id": 64,
+    "name": "스카프/넥타이"
+  },
+  {
+    "category_id": 65,
+    "name": "안경/선글라스"
+  },
+  {
+    "category_id": 70,
+    "name": "모바일"
+  },
+  {
+    "category_id": 71,
+    "name": "가전제품"
+  },
+  {
+    "category_id": 72,
+    "name": "오디오/영상/관련기기"
+  },
+  {
+    "category_id": 73,
+    "name": "PC/노트북"
+  },
+  {
+    "category_id": 74,
+    "name": "게임/타이틀"
+  },
+  {
+    "category_id": 75,
+    "name": "카메라/DSLR"
+  },
+  {
+    "category_id": 80,
+    "name": "골프"
+  },
+  {
+    "category_id": 81,
+    "name": "캠핑"
+  },
+  {
+    "category_id": 82,
+    "name": "낚시"
+  },
+  {
+    "category_id": 83,
+    "name": "축구"
+  },
+  {
+    "category_id": 84,
+    "name": "자전거"
+  },
+  {
+    "category_id": 85,
+    "name": "인라인/스케이트보드"
+  }
+
+
+]

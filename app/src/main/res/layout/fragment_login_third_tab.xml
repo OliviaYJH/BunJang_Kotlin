@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.login.tablayout.thirdTab.LoginThirdTabFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/txt_login_third_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/login_large_margin"
+            android:fontFamily="@font/esamanru_light"
+            android:gravity="center"
+            android:text="@string/login_third_large_txt"
+            android:textColor="@color/black"
+            android:textSize="@dimen/login_large_txt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_login_third_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_login_third_large"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/login_small_margin"
+            android:gravity="center"
+            android:text="@string/login_third_small_txt"
+            android:textColor="@color/colorGray" />
+        <ImageView
+            android:layout_width="@dimen/login_img"
+            android:layout_height="@dimen/login_img"
+            android:src="@drawable/iv_login_third"
+            android:layout_below="@+id/txt_login_third_small"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+
+</FrameLayout>

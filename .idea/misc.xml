@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/background_delivery_benefit_apply.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/background_delivery_in_detail.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/background_delivery_no_fee.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/background_search_ad.xml" value="0.26927083333333335" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/bottom_border_black.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/bottom_border_gray.xml" value="0.3302083333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/bottom_border_gray_delivey.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/bottom_menu_selector_color.xml" value="0.31666666666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/bottom_sheet_dialog_login.xml" value="0.1953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_add_card.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_add_product.xml" value="0.253125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_add_safety.xml" value="0.253125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_add_safety_none.xml" value="0.253125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_border_delivery.xml" value="0.2859375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_bottom_border.xml" value="0.28229166666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_brand_add.xml" value="0.2953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_brand_edit.xml" value="0.2953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_brand_follow.xml" value="0.2953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_brand_follow_recycler.xml" value="0.2953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_fast_sell.xml" value="1.628125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_kakao_login.xml" value="0.38229166666666664" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/btn_option_background.xml" value="0.253125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/dialog_bottom_sheet_login.xml" value="0.2671875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/dialog_bottom_sheet_login_background.xml" value="0.1953125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/dialog_delete_account_border.xml" value="0.3109375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/dialog_store_alarm.xml" value="0.3546875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/home_viewpager_num.xml" value="0.38229166666666664" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/ic_circle.xml" value="0.259375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/ic_circle_black.xml" value="0.259375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/ic_circle_gray.xml" value="0.259375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/iv_bag_category.xml" value="0.28020833333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/iv_facebook_login.xml" value="0.2671875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/iv_kakao_login.xml" value="0.38229166666666664" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/iv_naver_login.xml" value="0.2671875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/iv_personal_login.xml" value="0.2671875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/line_vertical_light_gray.xml" value="0.20885416666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/menu_selector_color.xml" value="0.31666666666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/sample.xml" value="0.2140625" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/splash.xml" value="0.31666666666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/tab_selector_home.xml" value="0.25" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/tablayout_circle.xml" value="0.38229166666666664" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/tablayout_home.xml" value="0.33489583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/top_bottom_border_gray.xml" value="0.2875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/top_bottom_border_light_gray.xml" value="0.20885416666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/top_light_gray_border.xml" value="0.3098958333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/drawable/top_size_light_gray_border.xml" value="0.3098958333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_account_setting.xml" value="0.29583333333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_add_account.xml" value="0.21822916666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_category.xml" value="0.2765625" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_following.xml" value="0.3302083333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_login_setting_store_name.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_modify_account.xml" value="0.23229166666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_my_modify.xml" value="0.23802083333333332" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_my_wish.xml" value="0.28125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_nick_name_setting.xml" value="0.28125" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_product_delivery.xml" value="0.33" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_product_detail.xml" value="0.26197916666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_product_devliery.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_product_direct.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_register.xml" value="0.2786458333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_sample_fragment.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_search.xml" value="0.2640625" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_setting.xml" value="0.2520833333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_splash.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_tag.xml" value="0.26197916666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/activity_trade_record.xml" value="0.23645833333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_bottom_sheet_login.xml" value="0.17916666666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_bottom_sheet_login_background.xml" value="0.17916666666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_delete_account.xml" value="0.2552083333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_delete_account_border.xml" value="0.2947916666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_loading.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/dialog_store_alarm.xml" value="0.3385416666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_account_bottom_dialog.xml" value="0.24375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_all_category.xml" value="0.25625" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_bag.xml" value="0.2598958333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_balance_record.xml" value="0.25104166666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_bank_bottom_dialog.xml" value="0.2515625" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_brand.xml" value="0.28729055986922764" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_buy_record.xml" value="0.23645833333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_digital.xml" value="0.27447916666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_fashion.xml" value="0.27447916666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_first.xml" value="0.26197916666666665" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_home_first_ad.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_home_fourth_ad.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_home_second_ad.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_home_third_ad.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_jacket.xml" value="0.24947916666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_jewerly.xml" value="0.2598958333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_login_bottom_sheet_dialog.xml" value="0.27708333333333335" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_login_first_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_login_fourth_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_login_second_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_login_third_tab.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_man_cloth.xml" value="0.27447916666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my.xml" value="0.33" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_bottom_sheet_dialog.xml" value="0.2234375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_finish.xml" value="0.2734375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_on_wish.xml" value="0.26666666666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_recent.xml" value="0.26666666666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_reserving.xml" value="0.2734375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_my_selling.xml" value="0.2734375" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_option_bottom_sheet_dialog.xml" value="0.32135416666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_product_trade_bottom_dialog.xml" value="0.32760416666666664" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_recommend.xml" value="0.31875" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_sample.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_sell_record.xml" value="0.25104166666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_shoes.xml" value="0.2598958333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_slide_image.xml" value="0.2838541666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_sports.xml" value="0.27447916666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_talk.xml" value="0.2786458333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/fragment_woman_cloth.xml" value="0.2708333333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_account_recycler.xml" value="0.23802083333333332" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_all_category.xml" value="0.5" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_all_category_list.xml" value="0.22135416666666666" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_brand_recycler.xml" value="0.2791666666666667" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_finish_recycler.xml" value="0.2630208333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_my_finish_recycler.xml" value="0.2630208333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_my_selling_recycler.xml" value="0.33" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_my_store_following_recycler.xml" value="0.3302083333333333" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_my_wish_recycler.xml" value="0.33" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/layout/item_recommend_recycler.xml" value="0.5" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/menu/bottom_menu.xml" value="0.30052083333333335" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/menu/menu_main_bottom_nav.xml" value="0.36614583333333334" />
+        <entry key="..\:/GitHub/BunJang_test_AOS_Olivia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.38229166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

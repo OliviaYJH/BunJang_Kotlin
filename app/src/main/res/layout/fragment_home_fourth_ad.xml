@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".src.main.home.ad.fourthAd.HomeFourthAdFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/home_ad_fourth">
+        <ImageView
+            android:id="@+id/iv_ad_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iv_ad_4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/main_fragment_margin_top"/>
+        <TextView
+            android:id="@+id/tv_ad_4_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_ad_fourth_small"
+            android:textColor="@color/home_ad_first_small"
+            android:layout_below="@+id/iv_ad_4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/tv_ad_4_large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_ad_fourth_large"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/tv_ad_4_small"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:gravity="center"
+            android:layout_marginTop="15dp"/>
+
+    </RelativeLayout>
+
+</FrameLayout>
